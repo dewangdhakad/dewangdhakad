@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Dewang%20Dhakad&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Robotics%20%7C%20AI%20%7C%20Competitive%20Programming&descAlignY=55&descSize=16" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dewang%20Dhakad&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Robotics%20%7C%20AI%20%7C%20Competitive%20Programming&descAlignY=55&descSize=16" width="100%" alt="header" />
 </div>
 
 <div align="center">
@@ -62,12 +62,12 @@ Interactive local-first tracker that maps every problem to its underlying patter
 <tr>
 <td width="50%" valign="top">
 
-### CUJ Cultural Fest
-**Animated fest website**
+### Vision Lab
+**Detection & tracking experiments**
 
-Full-stack site for the university fest, built with a team of six — scroll-driven animation throughout.
+Computer vision pipelines built from the ground up — classical feature matching through modern detectors, benchmarked on real footage instead of toy datasets.
 
-`Next.js` `GSAP` `Tailwind`
+`Python` `OpenCV` `PyTorch`
 
 </td>
 <td width="50%" valign="top">
@@ -130,7 +130,7 @@ Four-person team tackling an embedded + robotics theme end to end, hardware thro
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewangdhakad/dewangdhakad/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewangdhakad/dewangdhakad/output/github-snake.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dewangdhakad/dewangdhakad/output/github-snake.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/dewangdhakad/dewangdhakad/output/github-snake.svg" width="100%" />
 </picture>
 
 <br /><br />
@@ -171,5 +171,5 @@ Four-person team tackling an embedded + robotics theme end to end, hardware thro
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 </div>
