@@ -40,7 +40,7 @@ struct Dewang {
 <tr>
 <td width="50%" valign="top">
 
-### ARES
+### ARES (Adaptive rescue and exploration system )
 **Autonomous UAV for Search & Rescue**
 
 Simulation-first disaster-response drone: adaptive path planning over unmapped terrain plus onboard CV for survivor detection.
